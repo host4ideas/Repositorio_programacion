@@ -7,8 +7,8 @@ public class ProbarAgenda {
 		Contacto c1,c2,c3,c4,c5,c6, c7;
 		
 		c1= new Contacto("Carlos" , "Herrero", "678678678");
-		c2= new Contacto("María" , "Pérez", "914445566");
-		c3= new Contacto("Pilar" , "Gómez", "979445566");
+		c2= new Contacto("Maria" , "Perez", "914445566");
+		c3= new Contacto("Pilar" , "Gomez", "979445566");
 		c4= new Contacto("Rafael" , "Mora", "956333444");
 		c5= new Contacto("Beatriz" , "Franco", "645888999");
 		c6= new Contacto("Antonio" , "Castellanos", "988777666");
